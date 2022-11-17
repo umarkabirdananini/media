@@ -63,7 +63,7 @@
         "main": true,
         "title": "Sokoto State Media Corporation",
         "meta_descr": "",
-        "header_custom": "",
+        "header_custom": "<meta name=\"facebook-domain-verification\" content=\"p1rf4nbxz9va5zcthqdw8hedt9b95i\" />",
         "footer_custom": "",
         "html_before": "",
         "meta_image": "@PROJECT_PATH@/assets/images/logo-128x128.png"
